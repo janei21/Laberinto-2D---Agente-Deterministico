@@ -1,0 +1,6 @@
+{
+  "name": "Laberinto 2D con Agente A* en Pygame",
+  "description": "Laberinto 2D generado aleatoriamente con algoritmo DFS y agente inteligente determinístico A* con Pygame.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
